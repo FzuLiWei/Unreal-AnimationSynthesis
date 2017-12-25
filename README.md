@@ -1,1 +1,1 @@
-test
+此工程只为Markdown图片存储之用
