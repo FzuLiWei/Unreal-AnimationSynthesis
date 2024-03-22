@@ -19,4 +19,4 @@ Note: Set to 0 to disable interpolation for the final generated animation;
 
 3.Frame Addition: The plugin also offers frame addition functionality, allowing you to add extra frames to a specified animation using linear interpolation. This allows you to extend the duration of the animation or add details to achieve a richer and more accurate animation effect.
 
-4.Metahuman Support: The plugin is designed specifically for Metahuman character skeletal animations, making it fully compatible with Metahuman characters.
+4.Metahuman Support: The plugin is designed specifically for Metahuman character skeletal animations, making it fully compatible with Metahuman characters and Standard skeleton compatible with unreal4 and unreal5.
