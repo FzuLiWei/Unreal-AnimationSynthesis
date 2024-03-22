@@ -1,6 +1,8 @@
 (1) Animation Splitting
 Description
 
+https://github.com/FzuLiWei/Unreal-AnimationSynthesis/blob/master/1.png
+
 Drag the source animation to be split into the "Source Animation" field, then click the "DETACH" button to perform the split. After splitting, by default, only the "Lower Body" contains pelvis bone data, while other parts do not.
 
 (2) Animation Blending
