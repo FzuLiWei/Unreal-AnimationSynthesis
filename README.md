@@ -38,3 +38,6 @@ Note: Set to 0 to disable interpolation for the final generated animation;
 <img src="https://github.com/FzuLiWei/Unreal-AnimationSynthesis/blob/master/7.png"/>
 
 4.Metahuman Support: The plugin is designed specifically for Metahuman character skeletal animations, making it fully compatible with Metahuman characters and Standard skeleton compatible with unreal4 and unreal5.
+
+
+<a href="https://youtu.be/ksSYVi3xyiQ" title="Unreal 5 : Animation Splitting And Blending"><img src="https://github.com/FzuLiWei/Unreal-AnimationSynthesis/blob/master/1.png" /></a>
