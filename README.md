@@ -44,9 +44,15 @@ Youtube URL:
 
 <a href="https://youtu.be/ksSYVi3xyiQ" title="Unreal 5 : Animation Splitting And Blending"><img src="https://github.com/FzuLiWei/Unreal-AnimationSynthesis/blob/master/THUMBNAIL.png" /></a>
 
-v1.0.2 NEW FEATURE : Preview Animation 
+v1.0.2 NEW FEATURE : Preview Animation
+
 <a href="https://youtu.be/DNUZxwqkm_E" title="Unreal 5 : Animation Splitting And Blending"><img src="https://github.com/FzuLiWei/Unreal-AnimationSynthesis/blob/master/THUMBNAIL.png" /></a>
+
 v1.0.3 NEW FEATURE : Blending On Sequencer
+
 <a href="https://youtu.be/4CblOU60K7g" title="Unreal 5 : Animation Splitting And Blending"><img src="https://github.com/FzuLiWei/Unreal-AnimationSynthesis/blob/master/THUMBNAIL.png" /></a>
+
 v1.0.4 NEW FEATURE : Batch Blending
+
 <a href="https://youtu.be/jbjeYupzrO4" title="Unreal 5 : Animation Splitting And Blending"><img src="https://github.com/FzuLiWei/Unreal-AnimationSynthesis/blob/master/THUMBNAIL.png" /></a>
+
