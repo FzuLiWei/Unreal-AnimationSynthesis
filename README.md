@@ -56,3 +56,7 @@ v1.0.4 NEW FEATURE : Batch Blending  ( Click Image )
 
 <a href="https://youtu.be/jbjeYupzrO4" title="Unreal 5 : Animation Splitting And Blending"><img src="https://github.com/FzuLiWei/Unreal-AnimationSynthesis/blob/master/THUMBNAIL.png" /></a>
 
+v1.0.5 NEW FEATURE : Lock Foot Position, solve the foot sliding  ( Click Image )
+
+<a href="https://youtu.be/9hku8yniA34" title="Unreal 5 : Animation Splitting And Blending"><img src="https://github.com/FzuLiWei/Unreal-AnimationSynthesis/blob/master/THUMBNAIL.png" /></a>
+
